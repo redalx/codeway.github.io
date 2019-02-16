@@ -1,2 +1,2 @@
-# codeway.github.io
-codeway blog
+# redalx.github.io
+redalx blog
